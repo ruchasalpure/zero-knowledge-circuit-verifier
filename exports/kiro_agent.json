@@ -1,0 +1,5 @@
+{
+  "name": "zero-knowledge-circuit-verifier",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "agent_id": "zero-knowledge-circuit-verifier",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
